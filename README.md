@@ -68,3 +68,13 @@ http://185.177.216.7:3000/public/dashboard/d08c00a8-94f1-434b-baed-b296b83b3ddb
 - ETL идемпотентен (`ON CONFLICT DO NOTHING`).
 - Строгая типизация и логирование в Python-скриптах.
 
+## 📄 Аналитические отчеты и презентация
+
+В папке `docs/` размещены подробные материалы исследования (PDF):
+- [Report 1: Сводка по ассортименту 2023](docs/Report_1_Assortment_Summary_2023.pdf)
+- [Report 2: Краткое резюме по LTV](docs/Report_2_LTV_Summary_2023.pdf)
+- [Report 3: Оптимизация ассортиментной матрицы](docs/Report_3_Optimization_Matrix.pdf)
+- [Report 4: Полный анализ LTV клиентской базы 2023](docs/Report_4_Customer_LTV_Analysis_2023.pdf)
+
+---
+**Автор:** Алексей Шустер | GitHub: github.com/alexeishuster
